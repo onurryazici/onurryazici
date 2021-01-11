@@ -1,4 +1,33 @@
-### Hi there 👋
+### Hi there I'm Onur :) 👋 
+
+![chrome offline game cast](assets/screenshot.gif)
+
+A little more about me 
+
+```json
+{ 
+    "name": "Onur",  
+    "coding":[
+        "React", 
+        "Node",
+        "C#",
+        "Java",
+        "Html",
+        "Css",
+        "Bootstrap",
+    ],
+    "other":[
+        "Json",
+        "Xml",
+        "Soap",
+        "Rest"
+    ],
+    "mobile":[{
+        "os":"android <3"
+    }]
+}
+```
+
 
 <!--
 **onurryazici/onurryazici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
