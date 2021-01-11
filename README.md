@@ -7,6 +7,8 @@ A little more about me
 ```json
 { 
     "name": "Onur",  
+    "isEngineer":"soon",
+    "university":"KTU",
     "coding":[
         "React", 
         "Node",
@@ -25,6 +27,7 @@ A little more about me
     "mobile":[{
         "os":"android <3"
     }]
+
 }
 ```
 
