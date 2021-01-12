@@ -26,7 +26,11 @@ A little more about me
     ],
     "mobile":[{
         "os":"android <3"
-    }]
+    }],
+    "desktop":{
+        "os":"linux <3",
+        "distribution":"ubuntu"
+    }
 
 }
 ```
