@@ -7,6 +7,8 @@ A little more about me
 ```json
 { 
     "name": "Onur",  
+    "surname": "Yazıcı",
+    "email": "onurr.yazici@outlook.com",
     "isEngineer":"soon",
     "university":"KTU",
     "coding":[
