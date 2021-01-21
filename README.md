@@ -11,7 +11,7 @@ A little more about me
     "email": "onurr.yazici@outlook.com",
     "isEngineer":"soon",
     "university":"KTU",
-    "experience":"7 year",
+    "experience":"4 year",
     "coding":[
         "React", 
         "Node",
