@@ -11,6 +11,7 @@ A little more about me
     "email": "onurr.yazici@outlook.com",
     "isEngineer":"soon",
     "university":"KTU",
+    "experience":"7 year"
     "coding":[
         "React", 
         "Node",
@@ -24,14 +25,16 @@ A little more about me
         "Json",
         "Xml",
         "Soap",
-        "Rest"
+        "Rest",
+        "Wsdl"
     ],
     "mobile":{
         "os":"android <3"
     },
     "desktop":{
         "os":"linux <3",
-        "distribution":"ubuntu"
+        "distribution":"ubuntu",
+        "desktop_environment":"unity"
     }
 
 }
