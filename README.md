@@ -1,5 +1,6 @@
 ### Hi there I'm Onur :) 👋 
 
+"I tell to computer what to do. Sometimes it does" 😄 
 ![chrome offline game cast](assets/screenshot.gif)
 
 A little more about me 
