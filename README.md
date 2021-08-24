@@ -1,16 +1,9 @@
-# github-profile-summary-cards-example
+# Somethings about from me 
 
-:star: [Tutorial](https://github.com/onurryazici/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+"I tell to computer what to do. Sometimes it does" 😄 
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurryazici&theme=github_dark)](https://github.com/onurryazici/)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onurryazici&theme=github_dark)](https://github.com/onurryazici/) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onurryazici&theme=github_dark)](https://github.com/onurryazici)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onurryazici&theme=github_dark)](https://github.com/onurryazici) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onurryazici&theme=github_dark)](https://github.com/onurryazii)
 
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/onurryazici/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/onurryazici/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/onurryazici/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/onurryazici/github-profile-summary-cards) [![](https://raw.githubusercontent.com/onurryazici/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/onurryazici/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/onurryazici/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/onurryazici/github-profile-summary-cards) [![](https://raw.githubusercontent.com/onurryazici/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/onurryazici/github-profile-summary-cards)
-
-[More Info](https://github.com/onurryazici/github-profile-summary-cards)
+[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
