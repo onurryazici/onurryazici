@@ -1,7 +1,7 @@
 # Somethings about from me 
 Hello there,
 I'm graduated from department of Computer Engineering at Karadeniz Technical University(KTU) and also graduated from department of Computer Programming at Dumlupınar University. 
-A passionate self-taught Full Stack Web Developer from Turkey.  Nowadays I'm developing myselft at java and react native. 
+A passionate self-taught Full Stack Web Developer from Turkey.  Nowadays I'm developing myselft at java.
 
 "I tell to computer what to do. Sometimes it does" 😄 
 
