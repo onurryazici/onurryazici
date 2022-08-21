@@ -1,8 +1,9 @@
 # Somethings about from me 
 Hello there,
-I'm graduated from department of Computer Engineering at Karadeniz Technical University(KTU) and also graduated from department of Computer Programming at Dumlupınar University. 
+In 2021 I graduated from Karadeniz Technical University(KTU) department of Computer Engineering with an average 3.11 GPA. Also I graduated from Dumlupınar University(DPU) department of Computer Programming. 
 A passionate self-taught Full Stack Web Developer from Turkey.  Nowadays I'm developing myselft at java spring.
 
+Here is my motto : \n 😄 
 "I tell to computer what to do. Sometimes it does" 😄 
 
 # My skills
