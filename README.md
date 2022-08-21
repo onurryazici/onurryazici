@@ -3,8 +3,7 @@ Hello there,
 In 2021 I graduated from Karadeniz Technical University(KTU) department of Computer Engineering with an average 3.11 GPA. Also I graduated from Dumlupınar University(DPU) department of Computer Programming. 
 A passionate self-taught Full Stack Web Developer from Turkey.  Nowadays I'm developing myselft at java spring.
 
-Here is my motto : \n 😄 
-"I tell to computer what to do. Sometimes it does" 😄 
+Here is my motto : "I tell to computer what to do. Sometimes it does" 😄 
 
 # My skills
 
