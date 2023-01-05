@@ -37,6 +37,7 @@ Here is my motto : "I tell to computer what to do. Sometimes it does" 😄
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurryazici&theme=github_dark)](https://github.com/onurryazici/)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onurryazici&theme=github_dark)](https://github.com/onurryazici/) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onurryazici&theme=github_dark)](https://github.com/onurryazici)
